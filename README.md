@@ -49,6 +49,8 @@ Also known as the "AIST Annotations" which were presented in the following paper
 }
 ```
 
+Note: The lyrics are encoded in ``Shift JIS (CP932)''.
+
 ## License
 
 This annotations are licensed under the **CC BY-NC 4.0** - see the [LICENSE](./LICENSE) file for details.
