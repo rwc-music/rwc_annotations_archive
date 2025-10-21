@@ -5,7 +5,11 @@ Format specifications are included to help researchers read and use the annotati
 
 Note: some annotations have already been processed and are available in a separate repository: [rwc-music/rwc_annotations](https://github.com/rwc-music/rwc_annotations).
 
-## RWC-MDB
+## Annotations
+
+In the following sections, we briefly describe the annotations and link the respective literature:
+
+### RWC-MDB*
 
 These are the initial RWC annotations described in these publications:
 
@@ -31,7 +35,7 @@ These are the initial RWC annotations described in these publications:
 }
 ```
 
-## AIST_RWC-MDB-C-2001_*
+### AIST_RWC-MDB-C-2001_*
 
 Also known as the "AIST Annotations" which were presented in the following paper:
 
