@@ -1,6 +1,9 @@
 # RWC Annotations Archive
 
+This repository contains the original RWC annotation files in their released form and format.  
+Format specifications are included to help researchers read and use the annotations.
 
+Note: some annotations have already been processed and are available in a separate repository: [rwc-music/rwc_annotations](https://github.com/rwc-music/rwc_annotations).
 
 ## RWC-MDB
 
@@ -44,7 +47,7 @@ Also known as the "AIST Annotations" which were presented in the following paper
 
 ## License
 
-This project is licensed under the **CC BY-NC 4.0** - see the [LICENSE](./LICENSE) file for details.
+This annotations are licensed under the **CC BY-NC 4.0** - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements
 
