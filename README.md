@@ -35,7 +35,7 @@ These are the initial RWC annotations described in these publications:
 }
 ```
 
-### AIST_RWC-MDB-C-2001_*
+### AIST_RWC-MDB-*-2001_*
 
 Also known as the "AIST Annotations" which were presented in the following paper:
 
@@ -50,6 +50,19 @@ Also known as the "AIST Annotations" which were presented in the following paper
 ```
 
 Note: The lyrics are encoded in ``Shift JIS (CP932)''.
+
+The vocal and instrument activity annotations in the folder ``AIST_RWC-MDB-P-2001_VOCA_INST'' were presented in this work:
+
+```bibtex
+@inproceedings{MauchFYG11_VocalDetect_ISMIR,
+  author     = {Matthias Mauch and Hiromasa Fujihara and Kazuyoshii Yoshii and Masataka Goto},
+  title      = {Timbre and Melody Features for the Recognition of Vocal Activity and Instrumental Solos in Polyphonic Music},
+  booktitle  = {Proceedings of the International Society for Music Information Retrieval Conference ({ISMIR})},
+  year       = {2011},
+  address    = {Miami, Florida, USA},
+  pages      = {233--238}
+}
+```
 
 ## License
 
